@@ -1,0 +1,35 @@
+{
+  "TTS": {
+    "Server" : "https://kakaoi-newtone-openapi.kakao.com/v1/synthesize",
+    "REST_KEY" : "6aac547c28afe5928395c30befb55fbf"
+  },
+  "Bot" : {
+    "Prefix" : "t.",
+    "Token" : "ODEzMzUxOTg1MjE0MzkwMjcy.YDODEA.n9PiJ3Dkkbux20jEED2wHVJjLX0"
+  },
+  "Server" : {
+    "Channel" : {
+      "Development" : 810724608541851689,
+      "Welcome" : 747136449924563034,
+      "Bump" : 932165557078347816,
+      "Anonymous" : 814027429386649601,
+      "Embed_Collection" :  947078845624893520,
+      "Log" : {
+        "Warning" : 872073105164623902,
+        "Badword" : 863971279682142208,
+        "Long" : 863971279682142208,
+        "Message_Delete" : 872806233202122763,
+        "Anonymous" : 872073418932101190
+      },
+      "Voice" : {
+        "Category" : 939529312753827910,
+        "Chat" : 939529587560435722,
+        "Remote" : 939531297683017788,
+        "State_IDs" : [
+          948228176629362720,
+          941579204829511710
+        ]
+      }
+    }
+  }
+}
