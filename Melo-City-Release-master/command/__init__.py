@@ -1,0 +1,9 @@
+import command.activity
+import command.anonymous
+import command.clean
+import command.debug
+import command.embed
+import command.profile
+import command.setremote
+import command.tts
+import command.warning
