@@ -1,7 +1,7 @@
 {
   "type": "service_account",
   "project_id": "tidocity-486f5",
-  "private_key_id": " ",
+  "private_key_id": " ", 
   "private_key": "-----BEGIN PRIVATE KEY-----\ ",
   "client_id": "115894810733197480587",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
