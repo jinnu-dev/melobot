@@ -1,9 +1,8 @@
 {
   "type": "service_account",
   "project_id": "tidocity-486f5",
-  "private_key_id": "dcf8943a11d120c847a8a415b3bbc1796d000529",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCivq9GBVH1jvVy\n6JO0er1ZhBkhl7Yfvq5FgCoKwQJ+ftwfsiVE/k35GL2roM7K3ZvXsdv1BgB5f2PP\nFodcGGMjy2PNgpKM/W2U3mvX+KhFuTDHTS4flCqK4SJ1FlV7v8dhmG3H5qBMxBtG\nZ0sOsGLlb33RHx2nMkBnsVlS6W6KTaiVk5Y2Vvh5S7brytW98mkccx2bnOM1LoAH\nxO4VimCyocQoGkTsVO8LqkuFnAdWjFg24BsntbQ0T5hf8yyeHAV2IkFLTWHRDSkJ\nSk86G2wWwj17JVrkbpkIBBTPL+QTqvo3l48ZHYamsIvzVELH+N7dcIPnMOWnhUtF\nh9ph+9T1AgMBAAECggEADgzcYPUwoDyZYDRIHDrEgifva4EHjjIOJZ3tA0SqjHUz\nV+Evaodx/+Fs7pZRhB4hyDtou/yqqdKfsU9GnGLWnE6A7Usqj9WJUmLpeJnVHT/h\nwDMfmkZWbesF6InnE2n5MqnQQIPerwH3QNrGFhyQTTKU8Cr5imfCO7GJ/qh8jKAI\ngJuLFyjxJL7ekRT/SNw/T7lU2Caln8dtpy/p5sIc/BGZn2pUzWa3MTI5FbJWpYAL\n5cZ+lqC9dDbFHohNruSVKxamDuj35+GXBJbn5QwX2puYkuGGfSYNhZWPiWrF3fuy\n6h1YoNy9mbkI1zEjyhaPc8oBH15rcx2lJPax8DizOQKBgQDO68Kk4hB8oQ0z7USF\nWwW70egLZmFknGX9KGlsZd6OS30dTN7sWrX2oxNv0icwDfZq3+10Hqsb9IEadvta\nUfi/nA2T2quxPKkTaFWDS0QM9UxpMOyIKiwkMXR9uYrC8KJ4l7LuCq6PMduBKbB9\nt0hVAfO4dzHnvi2pE4CVcF8m1wKBgQDJWI2KUXf4A1FGRtjTVXZln5N2CxYhu8F6\nhPnoXQ1K7du6zxuqBeyVxuhg0UEQezq9NNCcfM9o4Q1Sr827tgAo0axhLPz1Z7YH\nadm3wWpJ7Iw3t+SartVLI1bNJ3UzkBhNPRCTBVKICmK54M5v8qFyfqr+l+xncgZz\neW7ue6xFEwKBgF9bctX9gE+PAMCfZWZ3bgsCTweB5PwyvyWNjBfyUkANNdlc5ZbS\nruy8dmaf2INiy96w14Md5wj5As4pauhSwmm7Bt7OdTU2mUxiVpYtB21ZVh9b9oVB\nuhnr2J1f9jykHJuqfUEKFyvSdC/wAG/PGTxjq+ektpDvqaczX5x+rrr9AoGASgab\nq1H+mJmnpP3hM/nE2OINliXHUkm0fbYsJ2kmvPisg4cntaAN9pc10nq8wDF+TBgB\n5rbgjr/HZTIroqrsbhWAmg2vRw6FVz5shGnBCULF3qpmixRiaQiqHi02oumEdclQ\nsa0QReIDoDFt1KzQ/MZjWc1DZlj+1C++QEIJ+S8CgYBxGaYuGLetVWJQ96Py7DEW\nbhQc5er0sjH3Oy+GkwE/2mmVimjaSY59dnR48NP8ZfAAUVOXWbJfVA1MbQfdODI5\nNqkpAXj4gEQYcC32G6feAY3+iHH/9bOEFH3HvNLyvPS7UNsSHz5U6RLrs0JLj1jM\npdOpMfZxvTDUmXGaAOJvBw==\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-phru0@tidocity-486f5.iam.gserviceaccount.com",
+  "private_key_id": " ",
+  "private_key": "-----BEGIN PRIVATE KEY-----\ ",
   "client_id": "115894810733197480587",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
