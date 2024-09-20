@@ -1,7 +1,7 @@
 {
   "TTS": {
     "Server" : "https://kakaoi-newtone-openapi.kakao.com/v1/synthesize",
-    "REST_KEY" : "6aac547c28afe5928395c30befb55fbf"
+    "REST_KEY" : " "
   },
   "Bot" : {
     "Prefix" : "t.",
