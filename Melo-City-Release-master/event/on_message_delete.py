@@ -50,7 +50,7 @@ def enable(bot: discord.ext.commands.Bot):
         if message.channel.id in no_log_channel:
             return 0
 
-        webhook_url = "https://discord.com/api/webhooks/874994184916959283/HX2pp5874kcmA0jyLdUNiU7IyULusiBEsHI19724OVa14QjWeCPPIzZ8WhX8YF2cap6_"
+        webhook_url = " "
 
         author = message.author
         channel = message.channel
